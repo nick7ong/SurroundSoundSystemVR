@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e195ff3dc822bc4183ad41f7cb5ff54, type: 3}
+  m_Name: Jigsaw
+  m_EditorClassIdentifier: 
+  songName: Jigsaw Falling Into Place - Radiohead
+  stemClips:
+  - {fileID: 8300000, guid: d92fa1c68c1fdae4aa727b2a90fedf66, type: 3}
+  - {fileID: 8300000, guid: e930459a6c674e247b95bb89d77072eb, type: 3}
+  - {fileID: 8300000, guid: a40855bab53cb0c4e9d60c0798688cbe, type: 3}
+  - {fileID: 8300000, guid: 81ef61309a34f724f8554d206d74001c, type: 3}
+  - {fileID: 8300000, guid: 80c735cf335b5eb48837c937cc870e56, type: 3}
+  - {fileID: 8300000, guid: 510fd09464080a74d97a6b1125de8bc6, type: 3}

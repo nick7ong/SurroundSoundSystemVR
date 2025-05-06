@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e195ff3dc822bc4183ad41f7cb5ff54, type: 3}
+  m_Name: Sound_and_Color
+  m_EditorClassIdentifier: 
+  songName: Sound & Color - Alabama Shakes
+  stemClips:
+  - {fileID: 8300000, guid: e342818c84f102848923d32ace3ceb06, type: 3}
+  - {fileID: 8300000, guid: d2b0584ae02e16b4e9f387cc8456ff52, type: 3}
+  - {fileID: 8300000, guid: a3574216445f98d458de800c396e372a, type: 3}
+  - {fileID: 8300000, guid: 5d9fce921c4eb304d9f6d2f43722139e, type: 3}
+  - {fileID: 8300000, guid: 41bf2e61f3e9f9e4c991a39ca25019e2, type: 3}
+  - {fileID: 8300000, guid: 4c35d5a563445804b863c7c889b1deea, type: 3}

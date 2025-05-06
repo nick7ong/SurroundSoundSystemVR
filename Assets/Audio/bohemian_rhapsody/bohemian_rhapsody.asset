@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e195ff3dc822bc4183ad41f7cb5ff54, type: 3}
+  m_Name: bohemian_rhapsody
+  m_EditorClassIdentifier: 
+  songName: Bohemian Rhapsody - Queen
+  stemClips:
+  - {fileID: 8300000, guid: ed418eaeded0a8446bf2fa079548cf71, type: 3}
+  - {fileID: 8300000, guid: 8091804111855ea45979f57ecca09d48, type: 3}
+  - {fileID: 8300000, guid: a0bf5b9767cd87b42bdef201585e1cc3, type: 3}
+  - {fileID: 8300000, guid: 90861ab12a2d9564c964f3b5dab69809, type: 3}
+  - {fileID: 8300000, guid: 66c32d842e670b04e8752569f675ec0e, type: 3}
+  - {fileID: 8300000, guid: d66dfc457b4c855419900e0b7f24fb30, type: 3}
